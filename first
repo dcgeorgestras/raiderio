@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title></title>
-  <link href="style.css" rel="stylesheet" />
-</head>
-<body>
+<HTML>
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <script>
-  </script>
-</body>
-</html>
+  <H1>This is a website</H1>
+  
+  <p><a href="first.html">first</a>
